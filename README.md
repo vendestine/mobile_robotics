@@ -1,6 +1,6 @@
 ## EECE5550 LAB2
-### Install the relevant pacakge
-we should install the sophus pacakge, the link is below.
+### Install the relevant package
+we should install the sophus package, the link is below.
 https://pypi.org/project/sophuspy/
 
 ### Run the code
